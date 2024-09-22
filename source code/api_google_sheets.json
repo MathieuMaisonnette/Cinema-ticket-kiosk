@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bornecinemasheet",
+  "private_key_id": "f95681a52703ffe65853b12a08fcc28f4c36de8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD1whJ3cXM0zeun\nQ47DIHeOxNKMB0mhQf3HbwP/cjPpnDhsD8yWM1jjbtTWYGD+bld0M98DE0dlp7q3\nzrbVC+LdWQ29o2GBtwazBws1mtJZOqoqVXAyEPVu0eMWaHAz/x4nV0LyQ+WMI5SW\nCoYOjkdOAZTB/gSz0VrIdQaaZyDy08/fny1AxBtUkK/VLpLTG4PmyQ8bcBNIiC+G\ncNL90CBmsmchg8dLO79opa8IP2Et1kmONJkrW/XRkLp9E8+n3zl4G9oooaoOeSEP\nO5dUPPg3TlQ/EkuudMcNk6HAuxJVbgv0n/wKBSG6B+GQC43mkLqTHTIddWtRZk2L\n6qcE9JhbAgMBAAECggEACJCW7Cq8BR8YE2A7XXmIMSWS4OZwHnqaSZUI4qIsRPv4\ny2tRifqIIoT+TepV9wgJbDdSklzdpCFQVI+Tt6EOawBrhixnfYnPZfXc4iVfJ1Tw\nEUGhA12r8AzIiUNiha1ic6SK5L6RBW1IBGKhgWhb+8/6Szh7GXk2XL4XWNI3R78g\nh75Pi1pvb20wmD7h8fw9eJch48R29rrJ5vwDI6TzGzyOeiE1NXLxX2eFwAx31QsB\n1NnPimiOaVlTEQoPUj17xAgwXU8Gly4IFYkN9pL/h2STbsh07dBt6ROIo9G+3p1q\ns9yjtahp78j2/+O2i+SAX0IN+4ryCYtKl5FKqUtr4QKBgQD8Iz5/6+qJwtxdh43r\nggGfPnhL62cGjwWimNfy/IxSSjh9hJEAHQjCIHaMniTOnx/1Kw0yD4TzgnhNVT1W\n8LwS33R784gKeNwZXsLIn/OvhSow7JPT796Nrphqsl8VGSWjnZaxStzfy7olJh3R\n2NPRwiV6DYJn/nslk17R4tbF1wKBgQD5hc9+91/Bx+IMpnTrXduiqLI4xmmVjri6\nda1CrWqAhzfQp0ufbdiOumjXJFzwiekeJ5C3yOMFrp7hdUYRHbdTQpQLi7KEb+Io\nBKGpiLCdKdXPjiKXUmKyQMfpkQGSfbU0o1PDij1f8nY49JvdRlXDLtilDZqDfkIe\nPEIOOv1pHQKBgQDtXji+sVjyLJLNMop3RsNEKcmSn6E0WX0SoBXdWci4x8r6z8y6\ncJsINwukQlWgd8ncQ5V+pYGixhd/plnC+Yv1sIy3DIPsZ++9qqpxubPub81SlcZt\n5gp9E/vFpvtAn5YBvKBbdIEP53ns8z9riVeQx9gEWaeFQ9yneV/w9D8BrQKBgG6P\n0wwwMlbb6ZavXxk3Ym2lkCrGB9zD+6hrIhVsX8eJorqqlkCTXKSJhpDlxOS0Rv4c\ni+xTb/yBjlbaLuzAnQ2gb5baFITISo5u1u8W6SMKeXnZQgyI7cCMIcilfuvZFaS4\nRhJbu6w69BVylWmrk67DoC0qZO+kz0k0bBSAIO8lAoGBAOjUCaEhNePkLuM25RHu\nIyi1z94WTI9/6XIsK87iYJBge26me2nHh5TFn35u/wFF8ozTFTaH1hUKucv7wHCk\n3jHkLRWchhW43tCqvXanMiEC+Ef6HvrGwPD8Rf9dr5LiA3tHWsGDUUlZPM9BwnEW\nQr6NqonuW7ga7EZILbNcTSEr\n-----END PRIVATE KEY-----\n",
+  "client_email": "bornecinema1@bornecinemasheet.iam.gserviceaccount.com",
+  "client_id": "110360658032621300489",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bornecinema1%40bornecinemasheet.iam.gserviceaccount.com"
+}
